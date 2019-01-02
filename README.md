@@ -1,0 +1,2 @@
+# magisterka
+magisterka
